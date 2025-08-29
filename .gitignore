@@ -1,0 +1,6 @@
+target/
+.idea/
+*.iml
+*.log
+.finalQuery*
+final-query.sql

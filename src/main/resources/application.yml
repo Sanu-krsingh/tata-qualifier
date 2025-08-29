@@ -1,0 +1,14 @@
+ app:
+  name: "Sanu Kumar Singh"
+  regNo: "22BCE3211"   # <- change me
+  email: "sanukumar.singh2022@vitstudent.ac.in"
+
+bfh:
+  generateUrl: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
+  # Fallback submit URL if the API doesn't return a webhook field for any reason:
+  submitFallbackUrl: "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA"
+
+logging:
+  level:
+    root: INFO
+
